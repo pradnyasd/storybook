@@ -1,8 +1,8 @@
-<a href="https://storybook.js.org/"><img src="logo.png" title="Storybook" alt="Storybook"></a>
+<a href="https://storybook.js.org/"><img src="./images/logo.png" title="Storybook" alt="Storybook"></a>
 
 # Storybook_example
 
-This project
+This is a simple example to illustrate the use of Storybook for visual testing.
 
 ### Getting started
 
