@@ -17,9 +17,9 @@ Clone this repo to your local machine using https://github.com/pradnyasd/storybo
 Now install npm packages
 
 ```
-$ npm install
+$ yarn install
 ```
 
 ```
-$ npm start
+$ yarn storybook
 ```
